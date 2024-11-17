@@ -1,6 +1,6 @@
 # Hey there, I'm Shivambu! 👋
 
-Welcome to my GitHub! If you find my code useful, feel free to leave a tip.
+Welcome to my GitHub! 
 
 ## About Me
 - 🎓 CSE undergrad at IIIT Dharwad.
@@ -17,9 +17,5 @@ Welcome to my GitHub! If you find my code useful, feel free to leave a tip.
 - 💼 [LinkedIn](https://www.linkedin.com/in/shivambu108)
 - 🐦 [Twitter](https://x.com/shivambu_108)
 - 📧 [Email](mailto:shivambup108@gmail.com)
-
----
-
-Keep dreaming big, coding with passion, and remember: when in doubt, reboot. 🚀
 
 ---
