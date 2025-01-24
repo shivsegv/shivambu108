@@ -5,9 +5,7 @@ Welcome to my GitHub!
 ## About Me
 - 🎓 CSE undergrad at IIIT Dharwad.
 - 🥷 Competitive Programmer.
-- Currently learning:
-  - 🕸️ Building ultra-responsive websites.
-  - 🧠 Training AI/ML models to think creatively.
+
 
 ## Fun Facts
 - 😄 Pronouns: He/Him/Schrödinger's Bro (Simultaneously macho and sensitive until observed).
