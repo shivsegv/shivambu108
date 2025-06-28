@@ -7,8 +7,8 @@ Welcome to my GitHub!
 - 🥷 Competitive Programmer.
 
 ## Get in Touch
-- 💼 [LinkedIn](https://www.linkedin.com/in/shivambu108)
-- 🐦 [Twitter](https://x.com/shivambu_108)
-- 📧 [Email](mailto:shivambup108@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivambu)
+- 🐦 [Twitter](https://x.com/shivsegv)
+- 📧 [Email](mailto:shivsegv@gmail.com)
 
 ---
